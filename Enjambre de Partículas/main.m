@@ -40,3 +40,13 @@ semilogy(Resultado, 'LineWidth', 5);
 xlabel('Generaciones');
 ylabel('Mejor Solucion Encontrada');
 grid on;
+
+% Mostrar Grafica 3D
+%[X,Y] = meshgrid(LI:0.25:LS);
+%Z=floor(X).^2+floor(Y).^2;
+%surfc(X,Y,Z)
+%colorbar
+%title('Step function')
+%xlabel('Eje X')
+%ylabel('Eje Y')
+%zlabel('Eje Z')
