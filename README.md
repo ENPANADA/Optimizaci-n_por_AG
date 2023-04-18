@@ -4,4 +4,4 @@ Funcion de Prueba: Step function
 - Algoritmo Genetico
 - Colonia de Hormigas
 - Enjambre de Partículas
-
+- Evolucion Diferencial
