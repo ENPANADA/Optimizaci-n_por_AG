@@ -10,7 +10,6 @@ Se utilizo la funcion de Prueba Step function para la soluicon de problemas de o
 - Evolucion Diferencial
 - Sistemas Inmunes Artificiales
 
-⡝⣮⢝⡮⣝⠮⣝⢮⡝⡮⣝⠮⣝⢮⡝⡮⣝⠮⣝⢮⡝⡮⣝⠮⣝⢮⡝⡮⣝⠮⣝⢮⡝⡮⣝⠮⣝⢮⡝⡮⣝⠮⣝⢮⡝⡮⣝⠮⣝⢮⡝⡮⣝⠮⣝⢮⡝⡮⣝
 ⡝⣖⣫⠶⣍⡻⡜⣞⡼⣱⣋⠾⣍⠶⣭⢳⢎⡟⡼⣚⡼⣱⢫⢞⡭⠶⣭⣓⢮⠛⠼⣚⡼⣱⢫⢞⡭⠶⣭⣓⢮⣛⡼⣚⡼⣱⢫⢞⡭⠶⣭⣓⢮⣛⡼⣚⡼⣱⢫
 ⡝⡮⢖⡻⡜⡵⣛⡴⣋⠶⣭⢛⡼⣹⣒⢯⢺⡜⣳⠭⡶⢭⣓⠯⣜⡻⠔⣉⣀⡠⣄⠶⣩⢳⡝⢮⠞⣝⡲⡭⠶⡭⢶⣙⠶⣭⡓⡯⣜⡻⡴⣹⢲⠭⣶⡙⡶⢭⡳
 ⡽⣱⢯⡱⢯⡕⣏⠶⣭⢛⡖⣏⡞⡵⢎⣳⢫⡜⣧⠻⣜⢧⢫⡞⢅⡥⢞⣱⢫⡵⢎⣻⡱⢏⡼⣫⡝⢮⡵⢫⣝⢳⡭⢞⣹⠲⣝⡱⢧⡳⢭⡳⢭⡳⢶⡹⢭⣳⢹
@@ -38,8 +37,6 @@ Se utilizo la funcion de Prueba Step function para la soluicon de problemas de o
 ⡞⡼⢣⣳⢣⢗⠮⣝⡎⣷⢹⣒⠯⣜⢧⡳⢭⡞⢍⡡⠬⡥⣌⢬⡡⣍⠥⠲⠸⣜⢧⣛⡌⠤⡥⢩⠤⠲⠴⠲⠥⠥⠔⢈⡽⣚⡵⣹⢲⢭⡳⡝⢮⡹⢮⡱⣝⡲⢏
 ⡽⣱⢏⡶⣋⢾⡹⡲⣝⡲⢏⡼⣛⡼⢎⡵⣫⢄⣁⡒⣙⣑⡨⢥⡔⣦⢲⠽⣙⢮⢞⡲⣝⡲⢴⡒⣖⡖⣲⣓⢮⠳⣭⢫⢶⡹⣜⣣⢏⡶⡹⣭⢳⢭⡳⣝⡲⢽⣩
 ⡳⢭⢞⡲⣝⠮⣵⢛⡴⣫⡝⢶⡹⣜⣫⡜⢧⡛⢶⣙⡞⣴⢫⣓⠾⣡⢏⡯⣝⣚⢮⡵⢮⣙⢧⣛⢦⣛⠵⢮⡭⣛⢖⠯⡶⣙⠶⣭⢺⣱⢛⡴⣫⢮⠵⣎⡽⢎⡵
-⡽⢭⡺⠵⣎⡻⡴⢫⣞⡱⢞⣣⡝⣖⣣⡝⢧⣛⠧⣽⢸⢎⡳⡭⡞⡵⣫⠶⣹⡜⡶⡹⣎⢽⡲⢭⡞⣜⡫⠷⣜⡝⣮⢛⡼⣍⠷⣎⢧⣓⡏⣞⠵⣎⡻⡴⢫⣝⢺
-⡝⣎⣗⠻⣜⡵⣋⠷⣜⡭⣛⡴⣫⡜⡶⣹⢣⡝⡞⣥⣛⢮⣓⡳⢽⡱⢧⣛⠵⣚⡵⣛⡬⢧⢫⢗⡺⣥⢻⡹⣜⢞⡲⢏⡞⡼⣣⢏⣞⡲⡝⡮⣝⠮⣵⢋⡷⢪⡗
 
 ### Programa Extra ACO
 En este programa se muestra un ejemplo de Optimizacion por Colonia de Hormigas
