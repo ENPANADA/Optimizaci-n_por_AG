@@ -9,6 +9,7 @@ Se utilizo la funcion de Prueba Step function para la soluicon de problemas de o
 - Enjambre de Partículas
 - Evolucion Diferencial
 - Sistemas Inmunes Artificiales
+- Colonia de Abejas
 
 ⡝⣮⢝⡮⣝⠮⣝⢮⡝⡮⣝⠮⣝⢮⡝⡮⣝⠮⣝⢮⡝⡮⣝⠮⣝⢮⡝⡮⣝⠮⣝⢮⡝⡮⣝⠮⣝⢮⡝⡮⣝⠮⣝⢮⡝⡮⣝⠮⣝⢮⡝⡮⣝⠮⣝⢮⡝⡮⣝⠮⣝⢮⡝⣞
 ⡝⣖⣫⠶⣍⡻⡜⣞⡼⣱⣋⠾⣍⠶⣭⢳⢎⡟⡼⣚⡼⣱⢫⢞⡭⠶⣭⣓⢮⣛⡼⣚⡼⣱⢫⢞⡭⠶⣭⣓⢮⣛⡼⣚⡼⣱⢫⢞⡭⠶⣭⣓⢮⣛⡼⣚⡼⣱⢫⢞⡭⢶⡹⣜
